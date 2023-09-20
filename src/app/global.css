@@ -101,3 +101,8 @@ meter {
 :where([draggable="true"]) {
     -webkit-user-drag: element;
 }
+
+body {
+    margin: 0 auto;
+    max-width: 1100px;
+}
